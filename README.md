@@ -34,7 +34,7 @@ This project develops an image classification model to identify **7 different an
 ---
 
 ## Model Directory Structure
-'''
+```
 ├───tfjs_model
 | ├───group1-shard1of1.bin
 | └───model.json
@@ -47,7 +47,7 @@ This project develops an image classification model to identify **7 different an
 ├───notebook.ipynb
 ├───README.md
 └───requirements.txt
-'''
+```
 ---
 
 ## Requirements
